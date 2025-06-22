@@ -1,5 +1,9 @@
 # Karakeep Engine for SearXNG
 
+Results are displayed as info boxes on the right.
+
+![image](https://github.com/user-attachments/assets/3b05c4a2-35c5-4b3f-a90b-eb479ea32854)
+
 ## How to Install
 
 - Copy this file to your `searx/engines/` directory.
