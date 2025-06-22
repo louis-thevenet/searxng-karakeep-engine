@@ -6,8 +6,8 @@ Results are displayed as info boxes on the right.
 
 ## How to Install
 
-- Copy this file to your `searx/engines/` directory.
-- Add the following line to your `settings.yml` file under the `engines:` section:
+- Copy the `karakeep.py` file to your `searx/engines/` directory.
+- Add the following lines to your `settings.yml` file under the `engines:` section:
 
   ```yaml
   - name: karakeep
